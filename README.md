@@ -89,7 +89,7 @@
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|:-----------:|:------:|
 | 🔴 Simulación de Ataque a Servidor Empresarial | Ataque controlado a Ubuntu Server con Apache, MySQL y SSH mal configurados. Fuerza bruta, enumeración y escalada de privilegios hasta root. | `Nmap` `Hydra` `VirtualBox` `Packet Tracer` | [🔗 Ver](https://github.com/Caan31/Simulacion-Ataque-Servidor-Vulnerable-Empresarial) |
-| 🔵 Lab de Detección y Respuesta — Hospital Virtualizado | Infraestructura de hospital simulada con pfSense + Wazuh SIEM. Ataques reales detectados y mapeados a MITRE ATT&CK y PCI DSS. | `pfSense` `Wazuh` `VirtualBox` `Kali` | 🚧 Próximamente |
+| 🔵 Lab de Detección y Respuesta — Hospital Virtualizado | Infraestructura de hospital simulada con pfSense + Wazuh SIEM. Ataques reales detectados y mapeados a MITRE ATT&CK y PCI DSS. | `pfSense` `Wazuh` `VirtualBox` `Kali` | [🔗 Ver](https://github.com/Caan31/Laboratorio-de-Detecci-n-y-Respuesta-Hospital-Virtualizado)  |
 ---
 
 ## `$ cat sobre_el_blog.txt`
