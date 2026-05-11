@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝   ╚═╝   
 ```
 
-**`Aprendiendo en voz alta · Ciberseguridad Ofensiva · CTF & Writeups`**
+**`Ciberseguridad Ofensiva · CTF & Writeups`**
 
 [![Writeups](https://img.shields.io/badge/Writeups-DockerLabs%20%7C%20HTB-00ff88?style=flat-square&logo=hackthebox&logoColor=white)](https://github.com/Caan31)
 [![Cert](https://img.shields.io/badge/Certificaci%C3%B3n-eJPT-ff6b35?style=flat-square&logo=elearnsecurity&logoColor=white)](https://certs.ine.com/c5c7ee08-b828-48c0-933a-dd6e8df0ad62#acc.m8NDKiTS)
