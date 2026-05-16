@@ -86,8 +86,8 @@
 
 | Certificación | Estado | Contenido | Enlace |
 |---------------|:-:|-----------|:------:|
+| 🔴 **eJPT** — eLearnSecurity Junior Penetration Tester | ✅ Disponible | Recon, Nmap, Metasploit, vulnerabilidades Linux/Windows, PrivEsc, post-explotación, pivoting | [🔗 Ver](https://github.com/Caan31/eJPT) |
 | 🟠 **BSCP** — Burp Suite Certified Practitioner | 🔄 En progreso | SQLi, XSS, CSRF, SSRF, XXE, Auth, Access Control, JWT, etc. | [🔗 Ver](https://github.com/Caan31/BSCP) |
-| 🔴 **eJPT** — eLearnSecurity Junior Penetration Tester | ⏳ Pendiente | Pentesting, redes, enumeración, explotación básica | — |
 
 > 📌 Cada cheatsheet está organizada por tema, con capturas, payloads y metodología propia. Pensadas para principiantes que quieran ir más allá del *copy-paste*.
 
