@@ -74,11 +74,22 @@
 
 ### [🐳 DockerLabs](https://github.com/Caan31/-DockerLabs-Writeups-by-Arabot)
 
-
 ### [📦 Hack The Box]()
 
-
 > 💡 **¿Eres principiante?** Empieza por los marcados como `Easy` — incluyen explicación de cada herramienta usada.
+
+---
+
+## `$ ls cheatsheets/`
+
+> Guías de referencia rápida que voy creando mientras preparo certificaciones. Pensadas para repasar antes del examen y para tener todo a mano durante el mismo.
+
+| Certificación | Estado | Contenido | Enlace |
+|---------------|:-:|-----------|:------:|
+| 🟠 **BSCP** — Burp Suite Certified Practitioner | 🔄 En progreso | SQLi, XSS, CSRF, SSRF, XXE, Auth, Access Control, JWT, etc. | [🔗 Ver](https://github.com/Caan31/BSCP) |
+| 🔴 **eJPT** — eLearnSecurity Junior Penetration Tester | ⏳ Pendiente | Pentesting, redes, enumeración, explotación básica | — |
+
+> 📌 Cada cheatsheet está organizada por tema, con capturas, payloads y metodología propia. Pensadas para principiantes que quieran ir más allá del *copy-paste*.
 
 ---
 
@@ -90,6 +101,7 @@
 |----------|-------------|:-----------:|:------:|
 | 🔴 Simulación de Ataque a Servidor Empresarial | Ataque controlado a Ubuntu Server con Apache, MySQL y SSH mal configurados. Fuerza bruta, enumeración y escalada de privilegios hasta root. | `Nmap` `Hydra` `VirtualBox` `Packet Tracer` | [🔗 Ver](https://github.com/Caan31/Simulacion-Ataque-Servidor-Vulnerable-Empresarial) |
 | 🔵 Lab de Detección y Respuesta — Hospital Virtualizado | Infraestructura de hospital simulada con pfSense + Wazuh SIEM. Ataques reales detectados y mapeados a MITRE ATT&CK y PCI DSS. | `pfSense` `Wazuh` `VirtualBox` `Kali` | [🔗 Ver](https://github.com/Caan31/Laboratorio-de-Detecci-n-y-Respuesta-Hospital-Virtualizado)  |
+
 ---
 
 ## `$ cat sobre_el_blog.txt`
