@@ -74,7 +74,7 @@
 
 ### [🐳 DockerLabs](https://github.com/Caan31/-DockerLabs-Writeups-by-Arabot)
 
-### [📦 Hack The Box]()
+### [📦 Hack The Box](https://github.com/Caan31/-HackTheBox-Writeups-by-Arabot)
 
 > 💡 **¿Eres principiante?** Empieza por los marcados como `Easy` — incluyen explicación de cada herramienta usada.
 
