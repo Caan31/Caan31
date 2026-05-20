@@ -25,14 +25,13 @@
 ```bash
 > Nombre    :  Arabot
 > Rol       :  Estudiante de Ciberseguridad Ofensiva
-> Formación :  ASIR + Especialización en Ciberseguridad + Ingenieria en Ciberseguridad
 > Cert      :  eJPT (eLearnSecurity Junior Penetration Tester)
 > Enfoque   :  Pentesting · CTF · Writeups · Seguridad en Red
 > Idioma    :  Español 🇪🇸  (contenido 100% en castellano)
 > Estado    :  [ Aprendiendo en público · Siempre en progreso ]
 ```
 
-> Técnico en ASIR con especialización en ciberseguridad. Me apasiona el hacking ético y aprendo haciendo:
+> Me apasiona el hacking ético y aprendo haciendo:
 > resolviendo máquinas, rompiendo cosas en laboratorio y documentando todo el proceso para que
 > otros principiantes puedan seguir el mismo camino sin perderse.
 
